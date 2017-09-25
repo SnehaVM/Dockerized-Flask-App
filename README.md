@@ -1,1 +1,1 @@
-# cmpe273-assignment1
+A dockerized Python-Flask application which reads configration data from a Github repo.
